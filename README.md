@@ -18,3 +18,4 @@ My name is Maely Brandão. I'm from Brazil. I'm a computer science undergrad stu
 </a>
 &nbsp;
 <br>
+<img align="right" alt="GIF" src="https://i.imgur.com/SoDSkMI.gifv" width="250" >
