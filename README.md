@@ -1,6 +1,6 @@
 # Hello, there! :frog:
 
-My name is Maely Brandão. I'm from Brazil. I'm a computer science undergrad student at the Federal University of Campina Grande (UFCG), Brazil. :computer:
+I'm from Brazil. I'm a computer science undergrad student at the Federal University of Campina Grande (UFCG), Brazil. :computer:
 <img align="right" alt="GIF" src="https://i.imgur.com/SoDSkMI.gif" width="250" >
 ### Follow me :frog:
 &nbsp;
