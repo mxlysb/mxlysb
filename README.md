@@ -5,8 +5,8 @@ estudante de ciência da computação na UFCG. :computer:
 ### meus contatos:
 &nbsp;
 <br>
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/maely-brand%C3%A3o/)
-![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&&logo=Gmail&logoColor=white&link=mailto:maely.brandao@ccc.ufcg.edu.br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maely-brand%C3%A3o/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:maely.brandao@ccc.ufcg.edu.br)
 <br>
 
 ### conhecimento nas linguagens:
