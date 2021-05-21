@@ -19,5 +19,7 @@ estudante de ciência da computação na UFCG. :computer:
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxlysb&layout=compact&theme=vision-friendly-dark" />
-<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=mxlysb&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+<div>
+  <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxlysb&count_private=true&layout=compact&theme=vision-friendly-dark" />
+  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=mxlysb&&count_private=trueshow_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+</div>
