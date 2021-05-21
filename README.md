@@ -1,7 +1,7 @@
 # olá, eu sou a maely:frog:
 
 estudante de ciência da computação na UFCG. :computer:
-<img align="right" alt="GIF" src="https://i.imgur.com/SoDSkMI.gif" width="250" >
+<img align="right" alt="GIF" src="https://i.imgur.com/MUcVSW4.gif" width="350" >
 ### meus contatos:
 &nbsp;
 <br>
