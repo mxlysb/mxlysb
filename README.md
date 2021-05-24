@@ -13,6 +13,7 @@ estudante de ciência da computação na UFCG. :computer:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 
 ### conhecimento nas tecnologias:
