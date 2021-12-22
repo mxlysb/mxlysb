@@ -1,4 +1,4 @@
-# olá, eu sou a maely:frog:
+# olá, eu sou maely:frog:
 
 estudante de ciência da computação na UFCG. :computer:
 <img align="right" alt="GIF" src="https://i.imgur.com/MUcVSW4.gif" width="350" >
