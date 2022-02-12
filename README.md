@@ -1,6 +1,10 @@
 # olá, eu sou maely:frog:
 
 estudante de ciência da computação na UFCG. :computer:
+
+estudando no momento:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <img align="right" alt="GIF" src="https://i.imgur.com/MUcVSW4.gif" width="350" >
 ### meus contatos:
 &nbsp;
@@ -17,8 +21,9 @@ estudante de ciência da computação na UFCG. :computer:
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 
 ### conhecimento nas tecnologias:
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 
 <div>
   <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxlysb&count_private=true&layout=compact&theme=vision-friendly-dark" />
