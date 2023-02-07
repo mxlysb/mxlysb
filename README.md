@@ -1,11 +1,11 @@
-# olá, eu sou maely:frog:
+# olá, eu sou maely
 
 estudante de ciência da computação na UFCG. :computer:
 
 estudando no momento:
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-<img align="right" alt="GIF" src="https://i.imgur.com/MUcVSW4.gif" width="350" >
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+)
 ### meus contatos:
 &nbsp;
 <br>
@@ -25,6 +25,9 @@ estudando no momento:
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![AngularJs](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 
 <div>
   <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxlysb&count_private=true&layout=compact&theme=vision-friendly-dark" />
